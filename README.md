@@ -20,3 +20,7 @@ npm test
 ## Tech stack
 
 Node.js, Express, TypeScript, Vitest.
+
+## Guide
+
+See [docs/IMPLEMENTATION_GUIDE.md](docs/IMPLEMENTATION_GUIDE.md) for use cases, architecture, implementation notes, and extension ideas.
